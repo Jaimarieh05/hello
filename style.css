@@ -1,0 +1,53 @@
+body{
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: rgb(22, 41, 28);
+  background-color: aliceblue;
+}
+
+header{
+  background-color: blue;
+  color: aqua;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1{
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.hero{
+  text-align: center;
+  padding: 50px 20px;
+  background: linear-gradient(#3498db, #c031cd);
+  color: aliceblue;
+}
+
+.hero h2{
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+}
+
+.cta-btn{
+  background-color: #539623;
+  color: aliceblue;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cta-btn:hover{
+  background-color: black;
+}
+
+
+
+
+
+
+
+
